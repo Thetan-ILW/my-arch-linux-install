@@ -1,0 +1,1 @@
+rd.driver.pre=vfio-pci amd_iommu=on kvm.ignore_msrs=1 initcall_blacklist=sysfb_init
